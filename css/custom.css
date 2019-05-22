@@ -1,0 +1,25 @@
+.md-header {
+	background-color: #ff7043 !important;
+}
+
+.md-nav__link--active,
+.md-nav__link:active {
+	color: #ff7043 !important;
+}
+
+.md-nav__link:focus,
+.md-nav__link:hover {
+	color: #ffba43 !important;
+}
+
+.md-typeset a {
+	color: #ff7043 !important;
+}
+
+.md-tabs {
+	background-color: #ff7043 !important;
+}
+
+html .md-footer-meta.md-typeset a {
+	color: hsla(0, 0%, 100%, .7) !important;
+}
