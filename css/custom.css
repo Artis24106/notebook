@@ -1,4 +1,4 @@
-.md-header {
+/* .md-header {
 	background-color: #ff7043 !important;
 }
 
@@ -22,4 +22,19 @@
 
 html .md-footer-meta.md-typeset a {
 	color: hsla(0, 0%, 100%, .7) !important;
+} */
+
+.m_h2_span {
+	font-weight: 400 !important;
+	background-color: #795548;
+	color: white;
+	padding: 5px;
+	border-radius: 2px;
+}
+
+.m_h3_span {
+	border-left: #795548 solid 2px;
+	border-right: #795548 solid 2px;
+	color: #111111;
+	padding: 2px 5px;
 }
