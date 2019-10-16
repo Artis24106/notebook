@@ -25,16 +25,20 @@ html .md-footer-meta.md-typeset a {
 } */
 
 .m_h2_span {
-	font-weight: 400 !important;
-	background-color: #795548;
-	color: white;
-	padding: 5px;
-	border-radius: 2px;
+    font-weight: 400 !important;
+    background-color: #795548;
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
 }
 
 .m_h3_span {
-	border-left: #795548 solid 2px;
-	border-right: #795548 solid 2px;
-	color: #111111;
-	padding: 2px 5px;
+    border-left: #795548 solid 2px;
+    border-right: #795548 solid 2px;
+    color: #111111;
+    padding: 2px 5px;
+}
+
+img {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
 }
